@@ -7,7 +7,7 @@ Created On: 08/05/2025
 
 # May 1st: Started workshop and schematic
 
-We started the workshop following Cherry's (club leader) tutorial on the workshop. We started the schematic for the project. 
+We started the workshop following a tutorial on the workshop with our club leader. We started the schematic for the project. 
 
 <img width="586" height="562" alt="image" src="https://github.com/user-attachments/assets/3f39fd71-ab3c-4cad-89e0-23e4e13a4a82" />
 
